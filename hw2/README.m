@@ -1,6 +1,6 @@
 % DIP Homework Assignment #2 
 % April 11, 2018
-% Name: ¾G¶®¤å
+% Name: Jeng,Ya-wen
 % ID #: R06922097
 % email: r06922097@ntu.edu.tw
 %###############################################################################% 
