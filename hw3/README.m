@@ -1,6 +1,6 @@
 % DIP Homework Assignment #3 
 % May 2, 2018
-% Name: ¾G¶®¤å
+% Name: Jeng,Ya-wen
 % ID #: R06922097
 % email: r06922097@ntu.edu.tw
 %###############################################################################% 
@@ -20,7 +20,7 @@ Morphological;
 disp('Done, "Morphological", output image is "B.raw","countObjects.raw","S.raw"');
 %###############################################################################%
 % Problem 2:  Texture Analysis
-% Implementation 1: Law¡¦s method
+% Implementation 1: LawÂ¡Â¦s method
 % Implementation 2: texture syntext
 % M-file name: texture.m, textureFilter, readraw.m, writeraw.m
 % Usage: texture
